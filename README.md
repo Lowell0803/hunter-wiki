@@ -15,17 +15,17 @@ I did this project for my computer subject in Senior High. I really love Hunter 
 ## Screenshots
 
 <div align="center">
-    <h3>Home Screen</h3>
+    <h3>Home Tab</h3>
     <img src="readme/ss-home.png" alt="Home" width="400">
-    <h3>Arcs Screen</h3>
+    <h3>Arcs Tab</h3>
     <img src="readme/ss-arcs.png" alt="Arcs" width="400">
-    <h3>Characters Screen</h3>
+    <h3>Characters Tab</h3>
     <img src="readme/ss-characters.png" alt="Characters" width="400">
-    <h3>Timeline Screen</h3>
+    <h3>Timeline Tab</h3>
     <img src="readme/ss-timeline.png" alt="Timeline" width="400">
-    <h3>Studio Screen</h3>
+    <h3>Studio Tab</h3>
     <img src="readme/ss-studio.png" alt="Studio" width="400">
-    <h3>Reviews Screen</h3>
+    <h3>Reviews Tab</h3>
     <img src="readme/ss-reviews.png" alt="Reviews" width="400">
 </div>
 
