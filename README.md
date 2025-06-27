@@ -31,7 +31,7 @@ I did this project for my computer subject in Senior High. I really love Hunter 
 
 ## How to Run
 
-You can download the source code and run `index.html` in Google Chrome.
+You can download the source code and run `index.html` in any browser.
 
 ## Feedback
 
