@@ -8,7 +8,7 @@
 
 A Hunter × Hunter Wiki made using vanilla HTML + CSS. This was designed around the 2011 adaptation of the manga.
 
-## Author's Notes
+### Author's Notes
 
 I did this project for my computer subject in Senior High. I really love Hunter × Hunter and I have rewatched this series multiple times. This wiki was a tribute to the experience it gave me.
 
